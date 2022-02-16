@@ -1,16 +1,10 @@
 # MLTSA22_DNguyen
-Team Members: Janina Boecher, Jonathan Hicks, Dat Nguyen, Kopo Oromeng, Radhika Sundar.
-
-Contribution of each member:
-
-All members contributed constructively and helped to make sure that everyone was on the same page and were able to undersand the homework problems.
-
-Jonathan Hicks: Primarily responsible for the coding, since he is already familiar with Python.
-
-Dat Nguyen: He had worked on the homework independently and pointed out issues and raised questions that were very helpful.
-
-Kopo Oromeng: She too had worked on the homework independently and pointed out issues and raised questions that were very helpful.
-
-Radhika Sundar: She too had worked on the homework independently and pointed out issues and raised questions that were very helpful.
-
-All members collaborated in debugging the code and troubleshooting it.
+TEAM MEMBERS: Janina Boecher, Jonathan Hicks, Dat Nguyen, Kopo Oromeng, Radhika Sundar.\
+\
+MY WORK: I was able to do everything by myself until I got to visualization. I could not finish the rest of the assignment.The rest of the code was provided by Jonathan Hicks wich I copied them to my github space.\
+\
+WHAT I LEARNED: how to save a Google Colab file to Google disk, from Google disk, to create a Google Colab space for my homework, to view the input file in raw format, to capture the URL for input, to learn Slash (how to send message to a group, individual person, how to enter a new line <shift+enter>), to navigate the slides on slides.com... I am new to everything, so it took quite sometime. Being a manager, I have not coded for the last ten years of my career.\
+\
+MY DIFFICULTIES: math (I understand the concepts, but could not solve the equations), python (not knowing all the functions that an import library provides)\
+\
+MY CONTRIBUTIONS: working on procuring the data for our project: my neighbor is a retired MD from Nemours hospital where Jonathan Hicks works (this is such a coincidence0. Nemours has a dataset that contains infections, durations, admissions, lab tests, medication doses administered, emergency room visits... Since this is Nemours proprietary data, I leave it to Jonathan to go through the process to access the data with the assistance of my buddy, the doctor. I am not sure if Jonathan succeeds, so I am looking for another source. Professor Eric Best (a buddy of Dr Thomas Powers) is collecting data for COVID. Dr Best has set up a system to warn Delaware hospitals of impending ER admissions due to COVID. Jonathan was talking me out of using COVID data, because he is doing research on this type of data for his work at Nemours. He explained to me that this type of data involved differential equations, specifically, the non-linear because it is more accurate. But it is very hard to solve non-linear differential equations. I agree with him, but I would like to persuade him that the final project might not be successful in solving/fitting the data into a non-linear differentital model, but the real life discussion starts right there. What are our thoughts to solving this problem, what we wish to have to help solve it... I don't have a chance to talk to Jonathan yet.
