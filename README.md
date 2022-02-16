@@ -1,7 +1,7 @@
 # MLTSA22_DNguyen
 TEAM MEMBERS: Janina Boecher, Jonathan Hicks, Dat Nguyen, Kopo Oromeng, Radhika Sundar.\
 \
-MY WORK: I was able to do everything by myself until I got to visualization. I could not finish the rest of the assignment.The rest of the code was provided by Jonathan Hicks wich I copied them to my github space.\
+MY WORK: I was able to do everything by myself until I got to visualization. I could not finish the rest of the assignment. The rest of the code was provided by Jonathan Hicks which I copied them to my github space.\
 \
 WHAT I LEARNED: how to save a Google Colab file to Google disk, from Google disk, to create a Google Colab space for my homework, to view the input file in raw format, to capture the URL for input, to learn Slash (how to send message to a group, individual person, how to enter a new line <shift+enter>), to navigate the slides on slides.com... I am new to everything, so it took quite sometime. Being a manager, I have not coded for the last ten years of my career.\
 \
